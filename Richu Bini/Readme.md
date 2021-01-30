@@ -1,4 +1,5 @@
 # Richu Bini :boom:
 ## skill set
-*Embedded development*
-*IOT researcher*
+* **Embedded development**
+
+* **IOT researcher**
