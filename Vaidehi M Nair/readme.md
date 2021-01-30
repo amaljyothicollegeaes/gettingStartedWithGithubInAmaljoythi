@@ -1,0 +1,3 @@
+Teamwork
+Leadership
+Decision-making
